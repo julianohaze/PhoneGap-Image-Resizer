@@ -9,7 +9,7 @@
 	<description>
 		The plugin will resize images natively using phonegap/cordova's plugin architecture
 	</description>
-
+	<license>Apache 2.0</license>
 	<engines>
 		<engine name="cordova" version=">=3.0.0" />
 	</engines>  
